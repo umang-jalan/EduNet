@@ -1,6 +1,6 @@
 <?php
 
-$con=mysql_connect("localhost","root","uj231294");
+$con=mysql_connect("localhost","root","");
  mysql_select_db("Edunet");
 
 ?>
